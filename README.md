@@ -47,6 +47,8 @@ node server.js
 ## 🧪 Testing
 
 Use Postman or curl to test endpoints with Authorization headers.
+Using curl in the terminal i have tested endpoints and here is the video of some testcases = https://drive.google.com/file/d/1ENYoKtfGGcjZ9eMbJBEZivTix4775Ae2/view?usp=sharing
+
 
 ## 🧠 Unique Approach
 
